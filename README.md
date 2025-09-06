@@ -1,5 +1,5 @@
 # LogisticsShippingRates
-Please consider the following considerations when contributing:
+Please keep in mind the following considerations when contributing:
 
 ## Code Style:
 Maintain a consistent code style for readability.
